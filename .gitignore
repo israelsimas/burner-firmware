@@ -1,0 +1,6 @@
+bld/
+/build/
+.project
+.cproject
+.settings/
+.vscode
